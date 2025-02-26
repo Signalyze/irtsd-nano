@@ -1,6 +1,7 @@
 train/
 test/
-!/yolov8n/runs/detect/train
+!/runs/detect/train
+!
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
